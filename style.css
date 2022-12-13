@@ -1,0 +1,17 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #102946;
+}
+
+#moon {
+  position: absolute;
+  margin: auto;
+  width: 150px;
+  height: 150px;
+  background-color: #e2f1f4;
+  border-radius: 100%;
+}
